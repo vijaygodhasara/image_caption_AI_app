@@ -2,6 +2,8 @@
 
 This project is an AI-powered application that generates captions for images using deep learning models.
 
+![Image screenshot](https://github.com/vijaygodhasara/image_caption_AI_app/blob/main/image_captioning.png)
+
 ## Features
 
 - Upload an image, and the app will generate a descriptive caption.
